@@ -1,5 +1,5 @@
 # k-means clustering using grocery store data
-•	Grocery store customer clustering using PCA, the elbow method, and k-means clustering.</br>
-•	Features scaled to reduce unit variance.</br>
-•	Dimensionality reduction and cluster optimzation via PCA and the elbow method.</br>
-•	Visuals created with seaborn and plotly :)
+•	grocery store customer clustering using PCA, the elbow method, and k-means clustering.</br>
+•	geatures scaled to reduce unit variance.</br>
+•	dimensionality reduction and cluster optimzation via PCA and the elbow method.</br>
+•	visuals created with seaborn and plotly :)
